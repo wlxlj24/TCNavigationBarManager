@@ -15,6 +15,7 @@
 		96483E6C1D0D44CC004D258F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96483E6A1D0D44CC004D258F /* LaunchScreen.storyboard */; };
 		96483E771D0D44CC004D258F /* TCNavigationBarManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96483E761D0D44CC004D258F /* TCNavigationBarManagerTests.m */; };
 		96483E821D0D44CC004D258F /* TCNavigationBarManagerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96483E811D0D44CC004D258F /* TCNavigationBarManagerUITests.m */; };
+		96483E901D0D45A8004D258F /* topdesk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96483E8F1D0D45A8004D258F /* topdesk.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		96483E7D1D0D44CC004D258F /* TCNavigationBarManagerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TCNavigationBarManagerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96483E811D0D44CC004D258F /* TCNavigationBarManagerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TCNavigationBarManagerUITests.m; sourceTree = "<group>"; };
 		96483E831D0D44CC004D258F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96483E8F1D0D45A8004D258F /* topdesk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = topdesk.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		96483E5B1D0D44CC004D258F /* TCNavigationBarManager */ = {
 			isa = PBXGroup;
 			children = (
+				96483E8F1D0D45A8004D258F /* topdesk.jpg */,
 				96483E5F1D0D44CC004D258F /* AppDelegate.h */,
 				96483E601D0D44CC004D258F /* AppDelegate.m */,
 				96483E621D0D44CC004D258F /* ViewController.h */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96483E901D0D45A8004D258F /* topdesk.jpg in Resources */,
 				96483E6C1D0D44CC004D258F /* LaunchScreen.storyboard in Resources */,
 				96483E691D0D44CC004D258F /* Assets.xcassets in Resources */,
 				96483E671D0D44CC004D258F /* Main.storyboard in Resources */,
